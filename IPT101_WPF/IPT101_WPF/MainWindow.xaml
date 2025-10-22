@@ -1,0 +1,22 @@
+﻿<Window x:Class="IPT101_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Repairing Schedule" Height="500" Width="850"
+        Background="BurlyWood">
+
+    <Grid Margin="10">
+        <Label Content="Repairing Schedule" FontSize="30" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,10,0,0"/>
+        <Label Content="Client ID:" Margin="20,80,0,0" VerticalAlignment="Top" HorizontalAlignment="Left"/>
+        <TextBox x:Name="txtClientId" Width="200" Margin="150,80,0,0" VerticalAlignment="Top" HorizontalAlignment="Left"/>
+        <Label Content="Client Name:" Margin="20,120,0,0" VerticalAlignment="Top" HorizontalAlignment="Left"/>
+        <TextBox x:Name="txtClientName" Width="200" Margin="150,120,0,0" VerticalAlignment="Top" HorizontalAlignment="Left"/>
+        <Label Content="Contact Number:" Margin="20,160,0,0" VerticalAlignment="Top" HorizontalAlignment="Left"/>
+        <TextBox x:Name="txtContactNumber" Width="200" Margin="150,160,0,0" VerticalAlignment="Top" HorizontalAlignment="Left"/>
+        <Label Content="Scheduled Date:" Margin="20,200,0,0" VerticalAlignment="Top" HorizontalAlignment="Left"/>
+        <DatePicker x:Name="datePicker" Width="200" Margin="150,200,0,0" VerticalAlignment="Top" HorizontalAlignment="Left"/>
+        <Label Content="Scheduled Time:" Margin="20,240,0,0" VerticalAlignment="Top" HorizontalAlignment="Left"/>
+        <TextBox x:Name="txtTime" Width="200" Margin="150,240,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" ToolTip="Enter time (e.g. 10:30 AM)"/>
+        <Button Content="Add Schedule" Width="120" Height="30" Margin="150,290,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" Background="SaddleBrown" Foreground="White"/>
+        <ListBox x:Name="lstSchedules" Margin="400,80,20,20" Background="Beige" FontSize="14"/>
+    </Grid>
+</Window>
