@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="6643a507-2b0c-482c-9771-0aa0e74bab91" ChangeDateTime="10/06/2025 01:04:20">
+    <Property Name="ElementName" Value="[dbo].[RepairingSchedule].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[RepairingSchedule]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="ClientId" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="a3fdc711-b255-472d-a79f-25c8a65f4882" ChangeDateTime="10/06/2025 01:05:07">
+    <Property Name="ElementName" Value="[dbo].[RepairingSchedule].[Adress]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[RepairingSchedule]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Address" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="ede9b8c6-9a1c-4838-abb5-9ce975f8a1be" ChangeDateTime="10/06/2025 01:05:40">
+    <Property Name="ElementName" Value="[dbo].[RepairingSchedule].[Address]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[RepairingSchedule]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="ScheduledTime" />
+  </Operation>
+</Operations>

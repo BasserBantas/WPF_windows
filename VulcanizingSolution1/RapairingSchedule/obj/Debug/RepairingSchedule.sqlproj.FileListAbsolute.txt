@@ -1,0 +1,10 @@
+D:\Vulcanizing\VulcanizingSolution1\RapairingSchedule\bin\Debug\RepairingSchedule.dacpac
+D:\Vulcanizing\VulcanizingSolution1\RapairingSchedule\bin\Debug\RapairingSchedule.dll
+D:\Vulcanizing\VulcanizingSolution1\RapairingSchedule\bin\Debug\RapairingSchedule.pdb
+D:\Vulcanizing\VulcanizingSolution1\RapairingSchedule\obj\Debug\RepairingSchedule.sqlproj.AssemblyReference.cache
+D:\Vulcanizing\VulcanizingSolution1\RapairingSchedule\obj\Debug\Model.xml
+D:\Vulcanizing\VulcanizingSolution1\RapairingSchedule\obj\Debug\refactor.xml
+D:\Vulcanizing\VulcanizingSolution1\RapairingSchedule\obj\Debug\postdeploy.sql
+D:\Vulcanizing\VulcanizingSolution1\RapairingSchedule\obj\Debug\predeploy.sql
+D:\Vulcanizing\VulcanizingSolution1\RapairingSchedule\obj\Debug\RapairingSchedule.dll
+D:\Vulcanizing\VulcanizingSolution1\RapairingSchedule\obj\Debug\RapairingSchedule.pdb
